@@ -1,0 +1,3 @@
+Window "ErrorTest4" (250, 250) Layout Flow:
+Textfield abc 10;
+End.

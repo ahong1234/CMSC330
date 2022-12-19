@@ -1,0 +1,9 @@
+Window "NestedPanelTest" (250, 250) Layout Flow:
+Label "myLabel";
+Panel layout grid(2, 1):
+Button "button1";
+Panel layout flow:
+Label "InsidePanel2";
+End;
+End;
+End.

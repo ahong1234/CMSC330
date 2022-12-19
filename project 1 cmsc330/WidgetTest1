@@ -1,0 +1,8 @@
+Window "WidgetTest1" (250, 250) Layout Flow:
+Textfield 10;
+Panel Layout Flow:
+  Button "Button1";
+  Label "This!";
+  Label "That!";
+End;
+End.

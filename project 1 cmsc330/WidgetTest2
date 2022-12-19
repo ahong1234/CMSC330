@@ -1,0 +1,6 @@
+Window "WidgetTest2" (250, 250) Layout Flow:
+Group Radio "radio1";
+Radio "radio2";
+Radio "myRadio";
+End;
+End.

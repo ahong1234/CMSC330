@@ -1,0 +1,5 @@
+Window "FlowTest" (250, 250) Layout flow:
+	Button "A";
+	Button "B";
+	Button "C";
+End.

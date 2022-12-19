@@ -1,0 +1,7 @@
+Window "ErrorTest2" (250, 250) Layout Flow:
+Label "myLabel";
+Panel layout grid(2, 1):
+Button "button1";
+Button "Button2";
+
+End.

@@ -1,0 +1,12 @@
+Window "GridTest" (250, 250) Layout Flow:
+Panel Layout grid(4, 2):
+	Button "A";
+	Button "B";
+	Button "C";
+	Label "D";
+	Label "E";
+	Label "F";
+	Label "G";
+	Label "H";
+End;
+End.
